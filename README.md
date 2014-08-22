@@ -9,3 +9,5 @@ IrDAStudy.h : Header files of needed resources
 IrDAStudy.c : Main device driver file to compile kernel file IrDAStudy.ko
  
 IrDA_App.c  : User programme to test the driver
+
+Makefile    ：File organizing all the source code to be compiled
